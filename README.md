@@ -16,7 +16,7 @@
 
 - [Melbourne-Housing-Price-Predictor](https://github.com/SamWang3047/Melbourne-Housing-Price-Predictor): Forecasting quarterly median house prices across Melbourne
 - [Local Whisper Studio](https://github.com/SamWang3047/Local-Translation---Transcription-Based-on-Whisper): A clean, local-first web UI for faster-whisper.
-
+- [EMarket](https://github.com/SamWang3047/EMarket): An ecommerce showcase project
 
 ## Core Stack
 
