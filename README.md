@@ -13,7 +13,7 @@
 - LinkedIn: [linkedin.com/in/zhiyuan-wang](https://www.linkedin.com/in/zhiyuan-wang-250119256/)
 
 ## Featured Projects
-
+- [Manual Chatbot](https://github.com/SamWang3047/ManualChatbot): AI chatbot about uploaded file.
 - [Melbourne-Housing-Price-Predictor](https://github.com/SamWang3047/Melbourne-Housing-Price-Predictor): Forecasting quarterly median house prices across Melbourne
 - [Local Whisper Studio](https://github.com/SamWang3047/Local-Translation---Transcription-Based-on-Whisper): A clean, local-first web UI for faster-whisper.
 - [EMarket](https://github.com/SamWang3047/EMarket): An ecommerce showcase project
